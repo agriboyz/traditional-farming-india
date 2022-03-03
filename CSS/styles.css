@@ -1,0 +1,160 @@
+body {
+    font-family:'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBf;
+    line-height: 2;  
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    margin-left: 10px;
+    color: #66BFBF ;
+}
+
+hr {
+    height : 0px;
+    border-style: dotted none none;
+    width : 5%;
+    border-color: #91a5b9a2;
+    border-width: 8px;
+    margin: 100px auto 100px auto;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+
+
+
+
+.bottom-cloud {
+    position: absolute;
+    top: 60px;
+    right: 1200px
+}
+
+.bottom-container {
+    background-color:#66BFBF ;
+    margin: 0;
+    padding: 50px;
+}
+
+.btn {
+    margin: 20px;
+    font-size: 1.5rem;
+    color: #11999E;
+
+}
+ 
+
+
+.computer {
+    border-radius: 50%;
+    width: 38%;
+    float: right;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.contact-me {
+    margin-bottom: 40px;
+}
+
+.footer-link {
+    font-size: 1.2rem;
+    display: inline-block;
+    width: 200px;
+    text-decoration: none;
+    color:#11999E;
+
+}
+
+
+
+.keyboard {
+    width: 25%;
+    float : right;
+    margin-right: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.last {
+    text-align: center;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.profile {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.saaketh {
+    border-radius: 50%;
+    margin-top: 100px;
+    width: 20%;
+}
+
+.skill-des {
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row1 {
+    width: 518.348px;
+    margin: 100px auto 100px auto;
+    border-radius: 5%;
+    text-align: left;
+    padding: 5px 10px 20px 10px;
+}
+
+.skill-row2 {
+    width: 518.348px;
+    margin: 100px auto 100px auto;
+    border-radius: 5%;  
+    padding: 5px 10px 40px 10px;
+}
+
+.subtitle {
+    color: #66BFBf;
+    font-weight: normal;
+    
+}
+
+.top-container {
+    display: block;
+    background-color: #d4e6ec;
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 0 0 0 100px;
+}   
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 60px;
+}
+
